@@ -1,0 +1,38 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright © 2026
+Dr.-Ing. Gerhard Pollak-Diener
+
+This report is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+
+• Share — copy and redistribute the material in any medium or format.
+• Adapt — remix, transform and build upon the material.
+
+Under the following terms:
+
+• Attribution — Appropriate credit must be given to the author.
+• NonCommercial — The material may not be used for commercial purposes.
+• No additional restrictions — You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license permits.
+
+The complete license text is available at:
+
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Author:
+Dr.-Ing. Gerhard Pollak-Diener
+
+Citation
+
+If this work is referenced in publications, presentations or other documents,
+please cite the original report and its version number.
+
+Suggested citation:
+
+Pollak-Diener, G.
+Ursachenanalyse wiederkehrender Ladeabbrüche und Bewertung der
+Diagnosedaten von Pylontech-US2000C-LiFePO₄-Batteriemodulen.
+Version 1.0, 2026.
