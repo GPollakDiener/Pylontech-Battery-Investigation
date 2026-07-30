@@ -1,1 +1,1 @@
-This directory contains the Delphi executible.
+This directory contains the Delphi executable.
