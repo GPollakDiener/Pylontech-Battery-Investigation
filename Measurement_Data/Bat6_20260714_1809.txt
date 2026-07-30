@@ -1,0 +1,22 @@
+14.07.26 18:09:43
+þpylon>bat
+@
+Battery  Volt     Curr     Tempr    Base State   Volt. State  Curr. State  Temp. State  SOC          Coulomb      BAL         
+0        3500     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+1        3494     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+2        3493     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+3        3490     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+4        3413     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+5        3468     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+6        3489     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+7        3451     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+8        3498     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+9        3500     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+10       3497     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+11       3505     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+12       3377     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      N
+13       3498     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+14       3505     0        25000    Idle         Normal       Normal       Normal       99%         48799 mAH      Y
+Command completed successfully
+$$
+pylon>
