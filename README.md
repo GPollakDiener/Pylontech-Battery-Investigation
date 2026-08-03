@@ -2,6 +2,8 @@
 
 ## Technical investigation of repeated charge interruptions in Pylontech US2000C LiFePO₄ battery modules
 
+> **German technical report with English README**
+
 | Project information | |
 |---|---|
 | **Author** | Dr.-Ing. Gerhard Pollak-Diener |
